@@ -1,0 +1,44 @@
+==========================
+Чт 28 авг 2025 10:10:15 CEST: /mnt/MEGA/MEGA/mega/Папка/AIForge
+$ ls -la
+итого 480
+drwxr-xr-x 11 pasa pasa 32768 авг 28 02:22 .
+drwxr-xr-x  3 pasa pasa 32768 авг 28 00:18 ..
+drwxr-xr-x  2 pasa pasa 32768 авг 28 00:18 ai_clients
+drwxr-xr-x  2 pasa pasa 32768 авг 28 00:18 browser_engine
+drwxr-xr-x  2 pasa pasa 32768 авг 28 00:18 experiments
+drwxr-xr-x  2 pasa pasa 32768 авг 28 10:10 forge_logs
+drwxr-xr-x  9 pasa pasa 32768 авг 28 10:02 .git
+-rwxr-xr-x  1 pasa pasa  7370 авг 28 01:54 .gitignore
+-rwxr-xr-x  1 pasa pasa  1071 авг 28 01:54 LICENSE
+drwxr-xr-x  2 pasa pasa 32768 авг 28 00:18 office_integration
+drwxr-xr-x  3 pasa pasa 32768 авг 28 02:22 publications
+-rwxr-xr-x  1 pasa pasa  1484 авг 28 01:54 README.md
+-rwxr-xr-x  1 pasa pasa  1468 авг 28 02:11 RULES.md
+drwxr-xr-x  2 pasa pasa 32768 авг 28 00:18 tools
+drwxr-xr-x  2 pasa pasa 32768 авг 28 00:18 voice_system
+Exit code: 0
+
+==========================
+Чт 28 авг 2025 10:10:15 CEST: /mnt/MEGA/MEGA/mega/Папка/AIForge
+$ git status
+Текущая ветка: main
+Last commands done (2 commands done):
+   pick cbf2434 🔥 AIForge: Кузница запущена!
+   pick 247b455 📋 Add licenses and .gitignore
+Команд больше не осталось.
+Вы сейчас редактируете коммит при перемещении ветки  «main» над «0d0a24c».
+  (используйте «git commit --amend», чтобы исправить текущий коммит)
+  (используйте «git rebase --continue», когда будете довольны изменениями)
+
+Изменения, которые будут включены в коммит:
+  (используйте «git restore --staged <файл>...», чтобы убрать из индекса)
+	новый файл:    forge_logs/.last_push
+
+Изменения, которые не в индексе для коммита:
+  (используйте «git add <файл>...», чтобы добавить файл в индекс)
+  (используйте «git restore <файл>...», чтобы отменить изменения в рабочем каталоге)
+	изменено:      publications/first_release/001_intro.md
+
+Exit code: 0
+
